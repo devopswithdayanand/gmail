@@ -6,5 +6,6 @@ package com.google;
 public class App {
     public static void main(String[] args) {
         System.out.println("Happy morning guys!!");
+        System.out.println("Happy morning guys!!");
     }
 }
